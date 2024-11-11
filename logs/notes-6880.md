@@ -1,6 +1,6 @@
 # Notes
 
-feat: wire up missing route handler
+fix: type mismatch in serializer
 
-Timestamp: 2024-11-04T12:53:01Z
-Nonce: 822616
+Timestamp: 2024-11-11T08:50:29Z
+Nonce: 931081
