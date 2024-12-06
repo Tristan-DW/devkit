@@ -1,6 +1,6 @@
 # Notes
 
-chore: update lockfile
+chore: tidy up unused variables
 
-Timestamp: 2024-12-05T17:25:58Z
-Nonce: 321235
+Timestamp: 2024-12-06T17:29:30Z
+Nonce: 374432
