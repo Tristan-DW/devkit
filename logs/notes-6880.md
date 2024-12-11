@@ -1,6 +1,6 @@
 # Notes
 
-chore: tidy up unused variables
+feat: wire up missing route handler
 
-Timestamp: 2024-12-06T17:29:30Z
-Nonce: 374432
+Timestamp: 2024-12-11T15:45:38Z
+Nonce: 390359
