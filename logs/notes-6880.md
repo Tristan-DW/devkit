@@ -1,6 +1,6 @@
 # Notes
 
-feat: wire up missing route handler
+feat: improve logging verbosity
 
-Timestamp: 2024-12-11T15:45:38Z
-Nonce: 390359
+Timestamp: 2024-12-13T12:22:48Z
+Nonce: 862771
