@@ -1,6 +1,6 @@
 # Notes
 
-perf: avoid unnecessary re-renders
+feat: extend config options
 
-Timestamp: 2025-01-15T16:04:47Z
-Nonce: 775901
+Timestamp: 2025-01-17T12:08:23Z
+Nonce: 910214
