@@ -1,6 +1,6 @@
 # Notes
 
-fix: handle empty array input
+feat: add debug flag support
 
-Timestamp: 2025-05-12T11:51:35Z
-Nonce: 975997
+Timestamp: 2025-05-13T16:17:07Z
+Nonce: 517484
