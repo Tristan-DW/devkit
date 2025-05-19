@@ -1,6 +1,6 @@
 # Notes
 
-feat: add debug flag support
+fix: type mismatch in serializer
 
-Timestamp: 2025-05-13T16:17:07Z
-Nonce: 517484
+Timestamp: 2025-05-19T21:07:42Z
+Nonce: 130039
