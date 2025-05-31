@@ -1,6 +1,6 @@
 # Notes
 
-perf: avoid unnecessary re-renders
+feat: wire up missing route handler
 
-Timestamp: 2025-05-25T16:09:14Z
-Nonce: 599046
+Timestamp: 2025-05-31T12:31:42Z
+Nonce: 292846
