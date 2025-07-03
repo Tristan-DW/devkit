@@ -1,6 +1,6 @@
 # Notes
 
-fix: type mismatch in serializer
+feat: add missing index to schema
 
-Timestamp: 2025-06-19T12:57:25Z
-Nonce: 540757
+Timestamp: 2025-07-03T20:55:59Z
+Nonce: 398036
