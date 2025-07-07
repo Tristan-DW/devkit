@@ -1,6 +1,6 @@
 # Notes
 
-fix: prevent duplicate submissions
+fix: type mismatch in serializer
 
-Timestamp: 2025-07-07T09:17:15Z
-Nonce: 349808
+Timestamp: 2025-07-07T14:33:10Z
+Nonce: 154098
