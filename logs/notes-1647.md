@@ -1,6 +1,6 @@
 # Notes
 
-fix: type mismatch in serializer
+refactor: rename for clarity
 
-Timestamp: 2025-07-07T14:33:10Z
-Nonce: 154098
+Timestamp: 2025-07-13T11:19:40Z
+Nonce: 531624
