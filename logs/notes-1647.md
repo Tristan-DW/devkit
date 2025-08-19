@@ -1,6 +1,6 @@
 # Notes
 
-fix: resolve flaky test
+fix: correct response envelope format
 
-Timestamp: 2025-08-15T09:37:11Z
-Nonce: 503455
+Timestamp: 2025-08-19T13:55:13Z
+Nonce: 109890
