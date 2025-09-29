@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0081
+## Entry 0082
 
-- **Timestamp:** `2025-09-26T11:31:33Z`
-- **Commit:** 81 of 145
-- **Note:** refactor: clean up service layer abstractions
-- **Nonce:** 840530
+- **Timestamp:** `2025-09-29T13:30:39Z`
+- **Commit:** 82 of 145
+- **Note:** feat: add configurable timeout support
+- **Nonce:** 397363
