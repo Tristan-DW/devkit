@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct default value handling
+fix: correct off-by-one in pagination
 
-Timestamp: 2025-09-26T10:43:41Z
-Nonce: 317437
+Timestamp: 2025-10-02T13:01:14Z
+Nonce: 242370
