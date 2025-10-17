@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct off-by-one in pagination
+fix: type mismatch in serializer
 
-Timestamp: 2025-10-02T13:01:14Z
-Nonce: 242370
+Timestamp: 2025-10-17T12:00:11Z
+Nonce: 539672
