@@ -1,6 +1,6 @@
 # Notes
 
-chore: clean up after merge
+fix: edge case in request validation
 
-Timestamp: 2025-11-15T14:17:16Z
-Nonce: 322876
+Timestamp: 2025-11-18T14:09:48Z
+Nonce: 217275
