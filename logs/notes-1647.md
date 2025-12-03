@@ -1,6 +1,6 @@
 # Notes
 
-feat: extend config options
+feat: improve logging verbosity
 
-Timestamp: 2025-11-27T13:44:56Z
-Nonce: 295158
+Timestamp: 2025-12-03T19:19:32Z
+Nonce: 727042
