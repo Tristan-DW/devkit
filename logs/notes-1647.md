@@ -1,6 +1,6 @@
 # Notes
 
-chore: tidy up unused variables
+feat: add missing index to schema
 
-Timestamp: 2025-12-26T12:26:15Z
-Nonce: 447296
+Timestamp: 2026-01-04T14:51:17Z
+Nonce: 215675
