@@ -1,6 +1,6 @@
 # Notes
 
-feat: add missing index to schema
+chore: update lockfile
 
-Timestamp: 2026-01-04T14:51:17Z
-Nonce: 215675
+Timestamp: 2026-01-08T18:14:41Z
+Nonce: 946168
