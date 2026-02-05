@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct response envelope format
+fix: type mismatch in serializer
 
-Timestamp: 2026-01-29T17:26:38Z
-Nonce: 963484
+Timestamp: 2026-02-05T18:51:43Z
+Nonce: 757127
