@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0142
+## Entry 0143
 
-- **Timestamp:** `2026-03-04T15:00:46Z`
-- **Commit:** 142 of 145
-- **Note:** fix: handle null reference in parser
-- **Nonce:** 902687
+- **Timestamp:** `2026-03-07T17:06:17Z`
+- **Commit:** 143 of 145
+- **Note:** feat: add pagination to list endpoints
+- **Nonce:** 357578
