@@ -1,6 +1,6 @@
 # Notes
 
-perf: avoid unnecessary re-renders
+fix: type mismatch in serializer
 
-Timestamp: 2026-03-05T20:15:17Z
-Nonce: 705591
+Timestamp: 2026-03-09T12:38:40Z
+Nonce: 273620
